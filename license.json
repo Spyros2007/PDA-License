@@ -1,6 +1,6 @@
 {
   "shops": {
-    "shop-a": { "active": true, "until": "2027-12-31", "message": "" },
+    "shop-a": { "active": false, "until": "2027-12-31", "message": "" },
     "shop-b": { "active": false, "message": "Επικοινωνήστε με τον προμηθευτή." }
   }
 }
